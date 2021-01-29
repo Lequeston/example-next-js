@@ -1,7 +1,10 @@
 {
   "posts": [
-    {"id": 1, "title": "JS", "body": "lorem1"},
-    {"id": 2, "title": "JS", "body": "lorem2"},
-    {"id": 3, "title": "JS", "body": "lorem3"}
-  ]
+    {"id": 1, "title": "Post 1", "body": "Cupidatat pariatur esse incididunt nostrud est Lorem incididunt eu."},
+    {"id": 2, "title": "Post 2", "body": "Velit consectetur dolor aliqua ullamco est sint veniam dolore laboris anim in ipsum ex."},
+    {"id": 3, "title": "Post 3", "body": "Ipsum exercitation consequat ut veniam occaecat."}
+  ],
+  "about": {
+    "title": "Страница про нас"
+  }
 }
